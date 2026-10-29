@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this code or data."
+title: "Error-Controlled Bayesian Localization for Passive Radar With Receiver Calibration"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xuanrun
+    affiliation: "National Key Laboratory of Radar Signal Processing, School of Electronic Engineering, Xidian University"
+    email: "26021110898@stu.xidian.edu.cn"
+repository-code: "https://github.com/windy07/error-controlled-passive-radar"
+version: 1.0.0
+date-released: 2026-10-29
+preferred-citation:
+  type: article
+  title: "Error-Controlled Bayesian Localization for Passive Radar With Receiver Calibration"
+  authors:
+    - family-names: Liu
+      given-names: Xuanrun
+  year: 2026
+  url: "https://github.com/windy07/error-controlled-passive-radar"
